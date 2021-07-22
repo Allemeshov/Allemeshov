@@ -12,9 +12,11 @@
 
 #### _**Web**_: Angular | VUE.JS | SASS | HTML | CSS | JS | TS
 
-#### _**Back**_: C# | ASP.NET | C++ | C | WF | WPF | SQL | PHP
+#### _**Back**_: C# | ASP.NET | SQL | PHP
 
-#### _**DB**_: MySQL | PostrgeSQL | Microsoft SQL | SQLLite
+#### _**Others**_: C++ | C | SDL | WF | WPF
+
+#### _**DB**_: MySQL | PostgreSQL | Microsoft SQL | SQLLite
 
 ### **Music**:
 
