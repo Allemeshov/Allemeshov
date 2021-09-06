@@ -2,7 +2,7 @@
 
 ### I'm an 18 years old teen and I'm from Russia. (But actually from the USA, or may be it's better to say from Germany... ah, nevermind)
 
-### Currently study Mechatronics in Schweinfurt, Germany. Enjoy games, sport and coding.
+### Currently study Mechatronics in Schweinfurt, Germany and Software Engineering in Bryansk, Russia. Enjoy games, sport and coding.
 
 #
 
