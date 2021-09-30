@@ -34,17 +34,18 @@
 
 #### _**English**_: C1
 
-#### _**German**_: B1
+#### _**German**_: B2
 
 #### _**Russian**_: Native speaker
 
 #
 
-- 👨🏻‍🎓 Student FHWS in Schweinfurt on Mechatronics programm
-- 🌱 Learing coding and freelancing a bit
-- 🤔 I’m looking for code reviews and collabs
-- 🌠 Love vivid and positive people
-- 📽 Acquiring video- and photoediting skills
+- 👨🏻‍🎓 &nbsp;&nbsp;Student FHWS in Schweinfurt, Germany on Mechatronics programm
+- 👨🏻‍🎓 &nbsp;&nbsp;Student BSTU in Bryansk, Russia on Software Engineering programm
+- 🌱 &nbsp;&nbsp;Learing coding and freelancing a bit
+- 🤔 &nbsp;&nbsp;I’m looking for code reviews and collabs
+- 🌠 &nbsp;&nbsp;Love vivid and positive people
+- 📬 &nbsp;&nbsp;Write to me, I won't bite :)
 
 #
 
