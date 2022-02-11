@@ -14,7 +14,9 @@
 
 #### _**Back**_: C# | ASP.NET | SQL | PHP
 
-#### _**Others**_: C++ | C | SDL | Windows Forms | WPF
+#### _**Graphics**_: C++ | SDL/SDL2 | C# | SFML
+
+#### _**Desktop**_: Windows Forms | WPF | Electron
 
 #### _**DB**_: MySQL | PostgreSQL | Microsoft SQL | SQLLite
 
