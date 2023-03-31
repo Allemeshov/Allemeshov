@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sashka Lemeshov
 
-### I'm a 20 years old teen and I'm from Russia. (But actually from the USA, or may be it's better to say from Germany... ah, nevermind)
+### I'm a 20 years guy and I'm from Russia. (But actually from the USA, or may be it's better to say from Germany... ah, nevermind)
 
 ### Currently study Mechatronics in Schweinfurt, Germany and Software Engineering in Bryansk, Russia. Enjoy games, sport and coding.
 
